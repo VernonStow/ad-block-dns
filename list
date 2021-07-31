@@ -5,7 +5,7 @@ Use these strings to set up AdGuard DNS:
 For "Default" servers:
 https://dns.adguard.com/dns-query
 
-DNS-over-TLS (can be used on Android 9 and higher to block ads on entire device)
+DNS-over-TLS (can be used on Android 9 and higher)
 Use these strings to set up AdGuard DNS:
 For "Default" servers:
 dns.adguard.com
