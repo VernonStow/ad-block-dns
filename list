@@ -1,0 +1,25 @@
+ADGUARD DNS:
+
+DNS-over-HTTPS
+Use these strings to set up AdGuard DNS:
+For "Default" servers:
+https://dns.adguard.com/dns-query
+
+DNS-over-TLS (can be used on Android 9 and higher to block ads on entire device)
+Use these strings to set up AdGuard DNS:
+For "Default" servers:
+dns.adguard.com
+
+****
+OTHER AD-BLOCKING DNS-over-HTTPS
+These appear to have US-based points of presence and good privacy polcies, but please check before using.
+This list was curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
+These may be used to enhance the ad blocking feature in Bromite or Kiwi Browsers and others.
+
+https://doh.la.ahadns.net/dns-query
+
+https://adblock.mydns.network/dns-query 
+
+https://adblock.doh.mullvad.net/dns-query
+
+https://dns.adguard.com/dns-query
