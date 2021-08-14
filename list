@@ -13,10 +13,14 @@ dns.adguard.com
 ****
 OTHER AD-BLOCKING DNS-over-HTTPS
 These appear to have US-based points of presence and good privacy polcies, but please check before using.
-This list was curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
+List curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
 These may be used to enhance the ad blocking feature in Bromite or Kiwi Browsers and others.
 
-https://doh.la.ahadns.net/dns-query
+https://doh.la.ahadns.net/dns-query (Los Angeles)
+
+https://doh.ny.ahadns.net/dns-query (New York)
+
+https://doh.chi.ahadns.net/dns-query (Chicago)
 
 https://adblock.mydns.network/dns-query 
 
