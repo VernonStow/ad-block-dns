@@ -10,9 +10,11 @@ Use these strings to set up AdGuard DNS:
 For "Default" servers:
 dns.adguard.com
 
+(Note: This DNS-over-TLS blocks ads on the entire device and may cause some ad-supported apps not to function as expected.)
+
 ****
 OTHER AD-BLOCKING DNS-over-HTTPS
-These appear to have US-based points of presence and good privacy polcies, but please check before using.
+These have US-based points of presence and good privacy polcies, but please double-check before using.
 List curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
 These may be used to enhance the ad blocking feature in Bromite or Kiwi Browsers and others.
 
