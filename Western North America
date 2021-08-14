@@ -1,0 +1,15 @@
+DNS-over-HTTPS
+
+https://dns.adguard.com/dns-query
+
+https://doh.la.ahadns.net/dns-query
+
+https://adblock.mydns.network/dns-query 
+
+https://adblock.doh.mullvad.net/dns-query
+
+DNS-over-TLS
+
+dns.adguard.com
+
+dot.la.ahadns.net
