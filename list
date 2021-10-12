@@ -27,7 +27,7 @@ dot.chi.ahadns.net
 
 MISC:
 
-adfree.usableprivacy.net
+us-central.adhole.org
 
 ****
 OTHER AD-BLOCKING DNS-over-HTTPS
@@ -40,6 +40,6 @@ https://doh.chi.ahadns.net/dns-query (Chicago)
 
 https://adblock.doh.mullvad.net/dns-query
 
-https://adfree.usableprivacy.net/dns-query
+https://us-central.adhole.org/dns-query
 
 https://dns.adguard.com/dns-query
