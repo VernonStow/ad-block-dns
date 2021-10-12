@@ -25,6 +25,10 @@ dot.la.ahadns.net
 dot.ny.ahadns.net
 dot.chi.ahadns.net
 
+MISC:
+
+adfree.usableprivacy.net
+
 ****
 OTHER AD-BLOCKING DNS-over-HTTPS
 
@@ -34,8 +38,8 @@ https://doh.ny.ahadns.net/dns-query (New York)
 
 https://doh.chi.ahadns.net/dns-query (Chicago)
 
-https://adblock.mydns.network/dns-query 
-
 https://adblock.doh.mullvad.net/dns-query
+
+https://adfree.usableprivacy.net/dns-query
 
 https://dns.adguard.com/dns-query
