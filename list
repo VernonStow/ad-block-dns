@@ -27,7 +27,7 @@ dot.chi.ahadns.net
 
 WeDNS:
 
-dns.wevpn.com
+dns-weblock.wevpn.com
 
 ****
 OTHER AD-BLOCKING DNS-over-HTTPS
@@ -42,4 +42,4 @@ https://adblock.doh.mullvad.net/dns-query
 
 https://dns.adguard.com/dns-query
 
-https://dns.wevpn.com/dns-query
+https://dns-weblock.wevpn.com/dns-query
