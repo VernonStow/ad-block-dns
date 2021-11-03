@@ -6,7 +6,7 @@ https://doh.la.ahadns.net/dns-query
 
 https://adblock.doh.mullvad.net/dns-query
 
-https://dns.wevpn.com/dns-query
+https://dns-weblock.wevpn.com/dns-query
 
 DNS-over-TLS
 
@@ -14,4 +14,4 @@ dns.adguard.com
 
 dot.la.ahadns.net
 
-dns.wevpn.com
+dns-weblock.wevpn.com
