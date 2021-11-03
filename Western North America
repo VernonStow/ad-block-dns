@@ -4,9 +4,9 @@ https://dns.adguard.com/dns-query
 
 https://doh.la.ahadns.net/dns-query
 
-https://us-central.adhole.org/dns-query
-
 https://adblock.doh.mullvad.net/dns-query
+
+https://dns.wevpn.com/dns-query
 
 DNS-over-TLS
 
@@ -14,4 +14,4 @@ dns.adguard.com
 
 dot.la.ahadns.net
 
-us-central.adhole.org
+dns.wevpn.com
