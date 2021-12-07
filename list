@@ -1,6 +1,6 @@
 AD-BLOCKING DNS SERVERS
 These have US-based points of presence and do not log queries, but please double-check before using.
-List curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
+This list is curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
 DNS-over-HTTPS may be used to enhance the ad-blocking feature in Bromite or Kiwi Browsers and others.
 
 ADGUARD DNS:
@@ -11,35 +11,33 @@ For "Default" servers:
 https://dns.adguard.com/dns-query
 
 DNS-over-TLS (can be used on Android 9 and higher)
+Note: AD-BLOCKING DNS-over-TLS blocks ads on the entire device and may cause some ad-supported apps not to function as expected.
+
 Use these strings to set up AdGuard DNS:
 For "Default" servers:
 dns.adguard.com
 
 ****
 OTHER AD-BLOCKING DNS-over-TLS (can be used on Android 9 and higher)
-Note: AD-BLOCKING DNS-over-TLS blocks ads on the entire device and may cause some ad-supported apps not to function as expected.
-
-AHA DNS:
 
 dot.la.ahadns.net
 dot.ny.ahadns.net
 dot.chi.ahadns.net
 
-WeDNS:
-
 dns-weblock.wevpn.com
 
-****
+adblockdot.us.dnswarden.com
+
 OTHER AD-BLOCKING DNS-over-HTTPS
 
-https://doh.la.ahadns.net/dns-query (Los Angeles)
-
-https://doh.ny.ahadns.net/dns-query (New York)
-
-https://doh.chi.ahadns.net/dns-query (Chicago)
+https://doh.la.ahadns.net/dns-query
+https://doh.ny.ahadns.net/dns-query
+https://doh.chi.ahadns.net/dns-query
 
 https://adblock.doh.mullvad.net/dns-query
 
 https://dns.adguard.com/dns-query
 
 https://dns-weblock.wevpn.com/dns-query
+
+https://doh.us.dnswarden.com/adblock
