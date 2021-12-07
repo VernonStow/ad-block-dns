@@ -8,6 +8,8 @@ https://adblock.doh.mullvad.net/dns-query
 
 https://dns-weblock.wevpn.com/dns-query
 
+https://doh.us.dnswarden.com/adblock
+
 DNS-over-TLS
 
 dns.adguard.com
@@ -15,3 +17,5 @@ dns.adguard.com
 dot.la.ahadns.net
 
 dns-weblock.wevpn.com
+
+adblockdot.us.dnswarden.com
