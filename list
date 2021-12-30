@@ -15,12 +15,12 @@ Note: AD-BLOCKING DNS-over-TLS blocks ads on the entire device and may cause som
 
 Use these strings to set up AdGuard DNS:
 For "Default" servers:
-dns.adguard.com ##Note: this server does not work reliably on my Android phone##
+dns.adguard.com ##Note: this server does not work reliably on some Android phones##
 
 ****
 OTHER AD-BLOCKING DNS-over-TLS (can be used on Android 9 and higher)
 
-dot.la.ahadns.net ##Note: this server is pingable but does not work on my Android phone##
+dot.la.ahadns.net ##Note: this server is pingable but does not work on some Android phones##
 dot.ny.ahadns.net
 dot.chi.ahadns.net
 
@@ -33,6 +33,7 @@ OTHER AD-BLOCKING DNS-over-HTTPS
 https://doh.la.ahadns.net/dns-query
 https://doh.ny.ahadns.net/dns-query
 https://doh.chi.ahadns.net/dns-query
+https://blitz.ahadns.com/1:2
 
 https://adblock.doh.mullvad.net/dns-query
 
