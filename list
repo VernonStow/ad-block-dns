@@ -13,32 +13,42 @@ https://dns.adguard.com/dns-query
 DNS-over-TLS (can be used on Android 9 and higher)
 Note: AD-BLOCKING DNS-over-TLS blocks ads on the entire device and may cause some ad-supported apps not to function as expected.
 
+DNS-over-TLS
 Use these strings to set up AdGuard DNS:
 For "Default" servers:
-dns.adguard.com ##Note: this server does not work reliably on some Android phones##
+dns.adguard.com
 
-****
-OTHER AD-BLOCKING DNS-over-TLS (can be used on Android 9 and higher)
+CLEAN BROWSING:
 
-dot.la.ahadns.net ##Note: this server is pingable but does not work on some Android phones##
-dot.ny.ahadns.net
-dot.chi.ahadns.net
+https://doh.cleanbrowsing.org/doh/security-filter/
+
+Security Filter DOT:
+
+Blocks access to phishing, malware and malicious domains. It does not block adult content.
+
+security-filter-dns.cleanbrowsing.org
+
+Aha DNS (blocks ads): 
+
+https://doh.la.ahadns.net/dns-query
+
+https://blitz.ahadns.com/1:1 (full)
+
+https://blitz.ahadns.com/1:2 (basic)
+
+https://blitz.ahadns.com/1:2.20.22.23
+
+MISC DOH:
+
+https://doh.dnslify.com/dns-query
+
+https://dns-weblock.wevpn.com/dns-query
+
+https://adblock.mydns.network/dns-query 
+
+DOT:
 
 dns-weblock.wevpn.com
 
 adblockdot.us.dnswarden.com
 
-OTHER AD-BLOCKING DNS-over-HTTPS
-
-https://doh.la.ahadns.net/dns-query
-https://doh.ny.ahadns.net/dns-query
-https://doh.chi.ahadns.net/dns-query
-https://blitz.ahadns.com/1:2
-
-https://adblock.doh.mullvad.net/dns-query
-
-https://dns.adguard.com/dns-query
-
-https://dns-weblock.wevpn.com/dns-query
-
-https://doh.us.dnswarden.com/adblock
