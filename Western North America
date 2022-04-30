@@ -2,18 +2,30 @@ DNS-over-HTTPS
 
 https://dns.adguard.com/dns-query
 
+Aha DNS (blocks ads): 
+
 https://doh.la.ahadns.net/dns-query
 
-https://blitz.ahadns.com/1:2
+https://blitz.ahadns.com/1:1 (full)
 
-https://adblock.doh.mullvad.net/dns-query
+https://blitz.ahadns.com/1:2 (basic)
+
+https://blitz.ahadns.com/1:2.20.22.23
+
+MISC DOH:
+
+https://doh.cleanbrowsing.org/doh/security-filter/
+
+https://doh.dnslify.com/dns-query
 
 https://dns-weblock.wevpn.com/dns-query
 
-https://doh.us.dnswarden.com/adblock
+https://adblock.mydns.network/dns-query 
 
-DNS-over-TLS
+DOT:
 
 dns-weblock.wevpn.com
 
 adblockdot.us.dnswarden.com
+
+security-filter-dns.cleanbrowsing.org
