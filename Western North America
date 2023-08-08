@@ -1,28 +1,49 @@
+AD-BLOCKING DNS SERVERS
+These have US-based points of presence and do not log queries, but please double-check before using.
+This list is curated by me from https://github.com/curl/curl/wiki/DNS-over-HTTPS primarily for my own use.
+DNS-over-HTTPS may be used to enhance the ad-blocking feature in Bromite or Kiwi Browsers and others.
+
+ADGUARD DNS:
+
 DNS-over-HTTPS
+Use these strings to set up AdGuard DNS:
+For "Default" servers:
 
-https://dns.adguard-dns.com/dns-query
+https://dns.adguard-dns.com/dns-query/
 
-Aha DNS (blocks ads): 
+DNS-over-TLS
+Use these strings to set up AdGuard DNS:
+For "Default" servers:
+
+dns.adguard-dns.com
+
+CLEAN BROWSING
+Security Filter: Blocks access to phishing, malware and malicious domains. It does not block adult content.
+
+DOH:
+
+https://doh.cleanbrowsing.org/doh/security-filter/
+
+DOT:
+
+security-filter-dns.cleanbrowsing.org
+
+
+Aha DNS DOH (blocks ads): 
 
 https://doh.la.ahadns.net/dns-query
 
 https://blitz.ahadns.com/1:1 (full)
 
-https://blitz.ahadns.com/1:2 (basic)
+https://blitz.ahadns.com/1:2 (basic, RECOMMENDED)
 
-https://blitz.ahadns.com/1:3 (enhanced)
+https://blitz.ahadns.com/1:3 (full + enhanced trackers)
+
+
+MISC DOT:
+
+adblock.dns.dnswarden.com
 
 MISC DOH:
 
-https://doh.dnslify.com/dns-query
-
-https://doh.us.dnswarden.com/adblock 
-
-https://doh.cleanbrowsing.org/doh/security-filter/
-
-
-DOT:
-
-adblockdot.us.dnswarden.com
-
-security-filter-dns.cleanbrowsing.org
+https://dns.dnswarden.com/adblock
