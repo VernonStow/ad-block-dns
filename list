@@ -9,7 +9,7 @@ DNS-over-HTTPS
 Use these strings to set up AdGuard DNS:
 For "Default" servers:
 
-https://dns.adguard-dns.com/dns-query
+https://dns.adguard-dns.com/dns-query/
 
 DNS-over-TLS
 Use these strings to set up AdGuard DNS:
@@ -40,14 +40,10 @@ https://blitz.ahadns.com/1:2 (basic, RECOMMENDED)
 https://blitz.ahadns.com/1:3 (full + enhanced trackers)
 
 
-MISC DOH:
-
-https://doh.dnslify.com/dns-query
-
-https://doh.us.dnswarden.com/adblock 
-
-
 MISC DOT:
 
-adblockdot.us.dnswarden.com
+adblock.dns.dnswarden.com
 
+MISC DOH:
+
+https://dns.dnswarden.com/adblock
